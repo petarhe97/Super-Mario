@@ -1,9 +1,10 @@
 
 public class Character {
 	
-	private int hit_points;
-	
-	private double START_SPEED = 10;
+	protected int hit_points;
+	protected  
+	protected boolean jump_enabled;
+	protected double start_speed;
 	
 	
 }
